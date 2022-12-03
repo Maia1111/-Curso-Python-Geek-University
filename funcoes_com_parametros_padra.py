@@ -89,12 +89,7 @@ def incrementa():
     total = total + 1  # se for fazer calculo com variáveis globais sempre declare ela no inicio como global
     return total
 
-incrementa()
-incrementa()
-incrementa()
-incrementa()
 
- 
- 
- # Não muito comum
+
+
  
