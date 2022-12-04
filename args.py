@@ -76,3 +76,8 @@ Para resolver, teremos que desempacotar a lista na tupla
 # Desempacotador
 
 print(soma_todos_numeros2(*numeros))  # Colocando um asterisco no argumento da lista que esta passando
+
+# O asterisco serve para informamos ao Python que estamos passando uma coleção como argumento
+# Desta forma ele sabera que precisara desempacotar os dados
+
+# NÃO FUNCIONA COM DICIONÁRIO
