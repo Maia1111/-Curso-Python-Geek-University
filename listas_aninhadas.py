@@ -33,5 +33,4 @@ for lista in listas:
 # Gerando um tabuleiro/matrix 3x3
 
 tabuleiro = [[numero for numero in range(1, 4)] for valor in range(1, 4)]
-
 print(tabuleiro)
